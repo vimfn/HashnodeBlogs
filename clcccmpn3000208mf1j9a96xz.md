@@ -48,7 +48,7 @@ So here we go,
     
     2023 is gonna be cool.
     
-    > Prolly Twitter (@ag\_arunava) will be the best place to reach me now (either dm or tweet there)
+    > Prolly Twitter (https://twitter.com/ag\_arunava) will be the best place to reach me now (either dm or tweet there)
     > 
     > Other Socials: [https://hi.arunava.tech/](https://hi.arunava.tech/)  
     > (You can also reach me via my mail)
