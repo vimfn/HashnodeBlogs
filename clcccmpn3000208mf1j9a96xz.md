@@ -52,3 +52,16 @@ So here we go,
     > 
     > Other Socials: [https://hi.arunava.tech/](https://hi.arunava.tech/)  
     > (You can also reach me via my mail)
+    
+    Edit: I took only a few mins writing this, so yeah this isn't complete there are also a few more things, which I will edit later on here.  
+    **Like,**
+    
+2. \- Fix my messed up sleep cycle. (It's almost 1:30 while writing this I should sleep now)
+    
+3. \-
+    
+4. \-
+    
+5. \-
+    
+6. ...... will add later on :)
