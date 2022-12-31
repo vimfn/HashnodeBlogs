@@ -38,7 +38,6 @@ So here we go,
       - JWT
     - Also be more good in Web Dev Stuff (Frontend and Backend)
     
-    
     # Projects I will be working on in 2023:
     - Work on my blog and post about stuff (a week or two) 
     - Redo my portfolio website (a couple days, fetch blogs from hashnode prolly, need to think more)
@@ -49,7 +48,7 @@ So here we go,
     
     2023 is gonna be cool.
     
-    > Prolly Twitter (@ag\_arunava) will be the best place to reach me now (either dm or tweet there)  
-    >   
+    > Prolly Twitter (@ag\_arunava) will be the best place to reach me now (either dm or tweet there)
+    > 
     > Other Socials: [https://hi.arunava.tech/](https://hi.arunava.tech/)  
     > (You can also reach me via my mail)
