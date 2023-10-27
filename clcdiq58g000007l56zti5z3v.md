@@ -1,4 +1,12 @@
-# 🚀 Performance Boost : Enable GPU Hardware Acceleration on Linux (Browser / Video Playback)
+---
+title: "Hardware acceleration on linux browsers"
+seoTitle: "Enable GPU Hardware Acceleration on Linux"
+datePublished: Sun Jan 01 2023 15:19:07 GMT+0000 (Coordinated Universal Time)
+cuid: clcdiq58g000007l56zti5z3v
+slug: enable-gpu-hardware-acceleration-on-linux
+tags: linux, performance, gpu, brave, linux-for-beginners
+
+---
 
 ## Short Intro,
 
@@ -82,7 +90,6 @@ If still not showing hardware decoding, you may need to build `intel-media-drive
 
 * [https://wiki.archlinux.org/title/Hardware\_video\_acceleration](https://wiki.archlinux.org/title/Hardware_video_acceleration) <mark>(Arch Wiki </mark> 🛐<mark>)</mark>
     
-
 * [https://www.youtube.com/watch?v=hoN78aUgOuM&t=50s](https://www.youtube.com/watch?v=hoN78aUgOuM&t=50s)
     
 * [https://community.brave.com/t/no-hardware-video-decode-on-ubuntu-22-04/419576](https://community.brave.com/t/no-hardware-video-decode-on-ubuntu-22-04/419576)
@@ -93,5 +100,7 @@ If still not showing hardware decoding, you may need to build `intel-media-drive
     
 * [https://www.youtube.com/watch?v=\_0o-xqQz7P0](https://www.youtube.com/watch?v=_0o-xqQz7P0) <mark>(For Firefox Users)</mark>
     
-
-> #### **If you need more help or if this thing worked for you, let me know on** [**twitter**](https://twitter.com/ag@arunava)**, for more follow on hashnode (**@[Arunava Ghosh](@arunava) **)**
+    <div data-node-type="callout">
+    <div data-node-type="callout-emoji">💡</div>
+    <div data-node-type="callout-text"><strong>Let me know on</strong> <a target="_blank" rel="noopener noreferrer nofollow" href="https://twitter.com/ag@arunava" style="pointer-events: none"><strong>x (twitter</strong></a><strong>) if it worked for you.</strong></div>
+    </div>
