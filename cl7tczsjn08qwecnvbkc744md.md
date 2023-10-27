@@ -1,8 +1,8 @@
 ---
-title: "Answering "how do I learn to code ?!""
+title: "A guide for new programmers"
 datePublished: Thu Sep 08 2022 18:04:26 GMT+0000 (Coordinated Universal Time)
 cuid: cl7tczsjn08qwecnvbkc744md
-slug: answering-how-do-i-learn-to-code
+slug: a-guide-for-new-programmers
 cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/gA396xahf-Q/upload/v1668148678652/kLPsmhXob.jpeg
 tags: newbie, developer, coding, learn-coding, learncodeonline
 
