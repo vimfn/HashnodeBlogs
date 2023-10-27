@@ -1,4 +1,12 @@
-# Wasting time? Get a skill. Love the art of writing code
+---
+title: "Answering "how do I learn to code ?!""
+datePublished: Thu Sep 08 2022 18:04:26 GMT+0000 (Coordinated Universal Time)
+cuid: cl7tczsjn08qwecnvbkc744md
+slug: answering-how-do-i-learn-to-code
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/gA396xahf-Q/upload/v1668148678652/kLPsmhXob.jpeg
+tags: newbie, developer, coding, learn-coding, learncodeonline
+
+---
 
 I am not going to say to you that everyone should learn code, it’s so easy and all those market tactics which are often used to manipulate the audience.  
 
