@@ -1,4 +1,4 @@
 # HashnodeBlogs
 Just a backup of my Hashnode Blogs
 
-# https://blog.arunava.tech/
+## https://blog.arnvgh.me
