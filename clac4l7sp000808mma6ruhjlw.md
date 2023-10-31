@@ -1,8 +1,8 @@
 ---
-title: "Creat SSH key to access Github via SSH"
+title: "Create SSH keys to access GitHub via SSH"
 datePublished: Fri Nov 11 2022 06:36:11 GMT+0000 (Coordinated Universal Time)
 cuid: clac4l7sp000808mma6ruhjlw
-slug: creat-ssh-key-to-access-github-via-ssh
+slug: create-ssh-keys-to-access-github-via-ssh
 canonical: https://arunava.tech/blog/creat-ssh-key-to-access-github-via-ssh
 tags: ubuntu, linux, github, ssh
 
