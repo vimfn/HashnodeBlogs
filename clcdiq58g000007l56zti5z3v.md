@@ -4,6 +4,7 @@ seoTitle: "Enable GPU Hardware Acceleration on Linux"
 datePublished: Sun Jan 01 2023 15:19:07 GMT+0000 (Coordinated Universal Time)
 cuid: clcdiq58g000007l56zti5z3v
 slug: enable-gpu-hardware-acceleration-on-linux
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1699864379183/960391f1-bf92-476b-ba35-0259562f33c8.png
 tags: linux, performance, gpu, brave, linux-for-beginners
 
 ---
