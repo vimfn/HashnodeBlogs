@@ -14,7 +14,7 @@ In this article, I'm going to share some of the functional techniques that have 
 
 ## 1\. Hard Work &gt; Talent 💹
 
-When I was in my 6th or 7th grade then I started using linux 👾 and have gained my interested in computers and how pograms really work, which further lead me to deep dive into coding and later I found web deveopement my thing.
+When I was in my 6th or 7th grade then I started using linux 👾 and have gained my interest in computers and how programs really work, which further lead me to deep dive into coding and later I found web development my thing.
 
 Just like in studies hard work is more valuable than talent (talent is great if you have it and there are many developers out there where things just work on a much higher level) but programming is a skill very similar to playing a musical instrument 🎵 for most people you suck at first then you feel like a genius 🧠 when you code your first program then you realize you suck again and this pattern goes on and on forever in an infinite loop. ***In programming, you'll have to bang your head against the keyboard a bunch of times until you figure out how to make these error messages go away. 🪃***
 
